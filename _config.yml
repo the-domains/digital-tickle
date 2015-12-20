@@ -1,0 +1,28 @@
+name: Digital Tickle
+favicon: null
+layout_spectrum: 0.02186174620874226
+typography_spectrum: 0.42761733243241906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7657414993736893
+  lightness: 0.3366228207014501
+  saturation: 0.06769739952869713
+  rhythmicContrast: 0.9564680336043239
+purpose: []
